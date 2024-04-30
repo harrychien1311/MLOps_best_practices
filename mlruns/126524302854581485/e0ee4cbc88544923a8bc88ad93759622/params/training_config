@@ -1,0 +1,1 @@
+{'max_epochs': 10, 'lr': 1e-06, 'batch_size': 64, 'run_id': 'c4b020dba6f34b2a8ed77f5b5d2ffcda'}

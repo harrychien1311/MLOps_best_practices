@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/126524302854581485/80b78f088b73498b82999fb4cc87bfa5/artifacts
+end_time: 1713683260758
+entry_point_name: ''
+experiment_id: '126524302854581485'
+lifecycle_stage: active
+run_id: 80b78f088b73498b82999fb4cc87bfa5
+run_name: abrasive-tern-90
+run_uuid: 80b78f088b73498b82999fb4cc87bfa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713683231844
+status: 3
+tags: []
+user_id: chien

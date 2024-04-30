@@ -1,0 +1,15 @@
+FROM python:3.11.8
+
+WORKDIR /app/
+
+COPY app /app
+
+RUN mkdir data
+
+COPY data /app/data
+
+RUN pip install --no-cache-dir -r app_requirements.txt
+
+EXPOSE 9696
+
+CMD gunicorn -w 6 -k eventlet -b 0.0.0.0:9696 app:app

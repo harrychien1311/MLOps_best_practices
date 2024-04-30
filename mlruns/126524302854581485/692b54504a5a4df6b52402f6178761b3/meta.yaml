@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/126524302854581485/692b54504a5a4df6b52402f6178761b3/artifacts
+end_time: 1713698983003
+entry_point_name: ''
+experiment_id: '126524302854581485'
+lifecycle_stage: active
+run_id: 692b54504a5a4df6b52402f6178761b3
+run_name: flawless-snake-179
+run_uuid: 692b54504a5a4df6b52402f6178761b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713698857076
+status: 4
+tags: []
+user_id: chien

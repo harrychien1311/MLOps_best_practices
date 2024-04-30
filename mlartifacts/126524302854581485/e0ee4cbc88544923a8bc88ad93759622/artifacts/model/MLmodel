@@ -1,0 +1,27 @@
+artifact_path: model
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.12.3
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.2.2+cu121
+mlflow_version: 2.12.1
+model_size_bytes: 1728836
+model_uuid: 65ea44f3f73545449f9cfb62e0466792
+run_id: e0ee4cbc88544923a8bc88ad93759622
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1, 28,
+    28]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1,
+    10]}}]'
+  params: null
+utc_time_created: '2024-04-21 08:22:16.346606'

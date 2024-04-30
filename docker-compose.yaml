@@ -1,0 +1,20 @@
+
+services:
+  mlflow:
+    image: mlflow-server
+    ports:
+      - "5000:5000"
+    volumes:
+     - ./mlruns:/mlflow/mlruns
+     - ./mlartifacts:/mlflow/mlartifacts
+
+  app:
+    image: app
+    ports:
+      - "9696:9696"
+    environment:
+      - MLFLOW_TRACKING_URI=http://mlflow:5000
+    depends_on:
+      - mlflow
+
+

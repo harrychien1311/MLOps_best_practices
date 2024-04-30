@@ -1,0 +1,8 @@
+mlflow
+Flask
+Pillow
+torch
+torchvision
+pyyaml
+gunicorn
+eventlet

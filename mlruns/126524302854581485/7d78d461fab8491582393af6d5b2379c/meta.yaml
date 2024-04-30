@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/126524302854581485/7d78d461fab8491582393af6d5b2379c/artifacts
+end_time: 1713700212269
+entry_point_name: ''
+experiment_id: '126524302854581485'
+lifecycle_stage: active
+run_id: 7d78d461fab8491582393af6d5b2379c
+run_name: capable-sloth-154
+run_uuid: 7d78d461fab8491582393af6d5b2379c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713700179644
+status: 3
+tags: []
+user_id: root

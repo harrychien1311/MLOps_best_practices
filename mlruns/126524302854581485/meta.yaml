@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/126524302854581485
+creation_time: 1713683231696
+experiment_id: '126524302854581485'
+last_update_time: 1713683231696
+lifecycle_stage: active
+name: MNIST training

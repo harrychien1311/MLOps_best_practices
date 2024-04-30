@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/126524302854581485/421edaccd5e84d498a7f02c7aab00685/artifacts
+end_time: 1713699433634
+entry_point_name: ''
+experiment_id: '126524302854581485'
+lifecycle_stage: active
+run_id: 421edaccd5e84d498a7f02c7aab00685
+run_name: dashing-grub-974
+run_uuid: 421edaccd5e84d498a7f02c7aab00685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713699283548
+status: 3
+tags: []
+user_id: chien

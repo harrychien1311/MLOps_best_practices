@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/126524302854581485/9266ef61bac948f7b0a0113d85be2630/artifacts
+deleted_time: 1713699463303
+end_time: null
+entry_point_name: ''
+experiment_id: '126524302854581485'
+lifecycle_stage: deleted
+run_id: 9266ef61bac948f7b0a0113d85be2630
+run_name: upbeat-shoat-615
+run_uuid: 9266ef61bac948f7b0a0113d85be2630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713698997794
+status: 1
+tags: []
+user_id: chien

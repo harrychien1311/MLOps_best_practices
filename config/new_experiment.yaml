@@ -1,0 +1,4 @@
+max_epochs: 1
+lr: 0.000001
+batch_size: 64
+model_version: 1

@@ -1,4 +1,4 @@
-# Lunit assignment
+# MLOps Best Practices
 This source code is ML pipline for MNIST project. It includes a training script to train
 a simple CNN model and 2 docker files to build the MLflow-based model registry and a service app
 to interact with the model registry
